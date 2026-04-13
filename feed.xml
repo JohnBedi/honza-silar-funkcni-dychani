@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Honza Šilar — Funkční dýchání</title>
+    <link>https://johnbedi.github.io/honza-silar-funkcni-dychani/</link>
+    <description>Články o funkčním dýchání, Buteyko metodě a dechových technikách od Honzy Šilara</description>
+    <language>cs</language>
+    <atom:link href="https://johnbedi.github.io/honza-silar-funkcni-dychani/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 13 Apr 2026 12:00:00 +0200</lastBuildDate>
+
+    <!-- Články se přidávají sem -->
+
+  </channel>
+</rss>
